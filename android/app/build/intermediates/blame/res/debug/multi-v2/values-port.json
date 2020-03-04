@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/callroschel/rocketseat/favorityhub/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/callroschel/.gradle/caches/transforms-2/files-2.1/9f58fb3e51f42cf21af943b88f0a1166/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
