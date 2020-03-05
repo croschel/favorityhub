@@ -5,6 +5,7 @@ INJECTED from /home/callroschel/rocketseat/favorityhub/android/app/src/main/Andr
 INJECTED from /home/callroschel/rocketseat/favorityhub/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /home/callroschel/rocketseat/favorityhub/android/app/src/main/AndroidManifest.xml:1:1-26:12
 MERGED from /home/callroschel/rocketseat/favorityhub/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-community_async-storage] /home/callroschel/rocketseat/favorityhub/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-community_masked-view] /home/callroschel/rocketseat/favorityhub/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-gesture-handler] /home/callroschel/rocketseat/favorityhub/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-reanimated] /home/callroschel/rocketseat/favorityhub/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
@@ -142,6 +143,8 @@ uses-sdk
 INJECTED from /home/callroschel/rocketseat/favorityhub/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/callroschel/rocketseat/favorityhub/android/app/src/main/AndroidManifest.xml
 INJECTED from /home/callroschel/rocketseat/favorityhub/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-community_async-storage] /home/callroschel/rocketseat/favorityhub/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] /home/callroschel/rocketseat/favorityhub/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-community_masked-view] /home/callroschel/rocketseat/favorityhub/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-community_masked-view] /home/callroschel/rocketseat/favorityhub/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-gesture-handler] /home/callroschel/rocketseat/favorityhub/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
