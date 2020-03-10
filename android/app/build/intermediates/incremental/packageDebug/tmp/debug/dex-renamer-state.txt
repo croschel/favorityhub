@@ -1,4 +1,4 @@
-#Thu Mar 05 09:22:20 BRT 2020
+#Mon Mar 09 13:43:27 BRT 2020
 base.0=/home/callroschel/rocketseat/favorityhub/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

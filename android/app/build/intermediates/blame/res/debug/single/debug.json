@@ -1360,6 +1360,10 @@
         "source": "/home/callroschel/.gradle/caches/transforms-2/files-2.1/8499cbd4756f52799bc094610d6e1c9f/res/xml/standalone_badge_gravity_bottom_end.xml"
     },
     {
+        "merged": "/home/callroschel/rocketseat/favorityhub/android/app/build/intermediates/res/merged/debug/xml_file_provider_paths.xml.flat",
+        "source": "/home/callroschel/rocketseat/favorityhub/node_modules/react-native-webview/android/build/intermediates/packaged_res/debug/xml/file_provider_paths.xml"
+    },
+    {
         "merged": "/home/callroschel/rocketseat/favorityhub/android/app/build/intermediates/res/merged/debug/drawable_abc_text_cursor_material.xml.flat",
         "source": "/home/callroschel/.gradle/caches/transforms-2/files-2.1/9f58fb3e51f42cf21af943b88f0a1166/res/drawable/abc_text_cursor_material.xml"
     },

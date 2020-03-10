@@ -12,6 +12,7 @@ MERGED from [:react-native-reanimated] /home/callroschel/rocketseat/favorityhub/
 MERGED from [:react-native-safe-area-context] /home/callroschel/rocketseat/favorityhub/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-screens] /home/callroschel/rocketseat/favorityhub/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-vector-icons] /home/callroschel/rocketseat/favorityhub/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-webview] /home/callroschel/rocketseat/favorityhub/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
 MERGED from [com.facebook.react:react-native:0.61.5] /home/callroschel/.gradle/caches/transforms-2/files-2.1/bd725f1679252e779c87d8a109845437/AndroidManifest.xml:2:1-13:12
 MERGED from [com.google.android.material:material:1.1.0] /home/callroschel/.gradle/caches/transforms-2/files-2.1/8499cbd4756f52799bc094610d6e1c9f/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] /home/callroschel/.gradle/caches/transforms-2/files-2.1/9f58fb3e51f42cf21af943b88f0a1166/AndroidManifest.xml:17:1-24:12
@@ -79,6 +80,8 @@ application
 ADDED from /home/callroschel/rocketseat/favorityhub/android/app/src/main/AndroidManifest.xml:6:5-24:19
 MERGED from /home/callroschel/rocketseat/favorityhub/android/app/src/main/AndroidManifest.xml:6:5-24:19
 MERGED from /home/callroschel/rocketseat/favorityhub/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [:react-native-webview] /home/callroschel/rocketseat/favorityhub/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] /home/callroschel/rocketseat/favorityhub/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
 MERGED from [com.facebook.react:react-native:0.61.5] /home/callroschel/.gradle/caches/transforms-2/files-2.1/bd725f1679252e779c87d8a109845437/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.react:react-native:0.61.5] /home/callroschel/.gradle/caches/transforms-2/files-2.1/bd725f1679252e779c87d8a109845437/AndroidManifest.xml:11:5-20
 MERGED from [com.google.android.material:material:1.1.0] /home/callroschel/.gradle/caches/transforms-2/files-2.1/8499cbd4756f52799bc094610d6e1c9f/AndroidManifest.xml:22:5-20
@@ -157,6 +160,8 @@ MERGED from [:react-native-screens] /home/callroschel/rocketseat/favorityhub/nod
 MERGED from [:react-native-screens] /home/callroschel/rocketseat/favorityhub/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-vector-icons] /home/callroschel/rocketseat/favorityhub/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-vector-icons] /home/callroschel/rocketseat/favorityhub/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /home/callroschel/rocketseat/favorityhub/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /home/callroschel/rocketseat/favorityhub/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.61.5] /home/callroschel/.gradle/caches/transforms-2/files-2.1/bd725f1679252e779c87d8a109845437/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.61.5] /home/callroschel/.gradle/caches/transforms-2/files-2.1/bd725f1679252e779c87d8a109845437/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.android.material:material:1.1.0] /home/callroschel/.gradle/caches/transforms-2/files-2.1/8499cbd4756f52799bc094610d6e1c9f/AndroidManifest.xml:20:5-44
@@ -247,3 +252,19 @@ uses-permission#android.permission.SYSTEM_ALERT_WINDOW
 ADDED from /home/callroschel/rocketseat/favorityhub/android/app/src/debug/AndroidManifest.xml:5:5-77
 	android:name
 		ADDED from /home/callroschel/rocketseat/favorityhub/android/app/src/debug/AndroidManifest.xml:5:22-75
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] /home/callroschel/rocketseat/favorityhub/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] /home/callroschel/rocketseat/favorityhub/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] /home/callroschel/rocketseat/favorityhub/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] /home/callroschel/rocketseat/favorityhub/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] /home/callroschel/rocketseat/favorityhub/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-83
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-webview] /home/callroschel/rocketseat/favorityhub/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:63
+	android:resource
+		ADDED from [:react-native-webview] /home/callroschel/rocketseat/favorityhub/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-60
+	android:name
+		ADDED from [:react-native-webview] /home/callroschel/rocketseat/favorityhub/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67
